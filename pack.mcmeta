@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": "ArmedBW"
+  },
+
+  "meta": {
+    "pack_type": 1,
+    "pack_version": "0.1",
+    "game_version": "1.8.9",
+    "pack_resolution": "32x",
+    "description": "Imported from Unturned and it's workshop, assembed by Forever_Pumpkin",
+    "consists": "Textures and Models"
+  }
+}
