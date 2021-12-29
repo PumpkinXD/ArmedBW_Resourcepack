@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Kate && VSCodium",
 	"item": "ArmedBW Not-a-Flamethrower",
-	"is_done":"yes i guess(should i change gui?)",
 	"model_ver":"1",
     "parent":"item/guns/model/flamethrower",
     "display": {
